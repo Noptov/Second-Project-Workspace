@@ -13,9 +13,15 @@ Our stakeholder, KB Homes, wishes to better understand what factors influence th
 <br>
 
 ### First Model
+
 <br>
+
 ## Conclusions
+
 <br>
+
 ## Future Research
+
 <br>
+
 ## Repository Structure
